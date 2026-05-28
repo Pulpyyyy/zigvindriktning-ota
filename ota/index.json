@@ -5,5 +5,12 @@
     "fileVersion": 1779952588,
     "fileSize": 565790,
     "url": "https://github.com/Pulpyyyy/zigvindriktning-ota/releases/download/v20260528-071628/zigvindriktning.ota"
+  },
+  {
+    "manufacturerCode": 20630,
+    "imageType": 64263,
+    "fileVersion": 1779952589,
+    "fileSize": 574958,
+    "url": "https://github.com/Pulpyyyy/zigvindriktning-ota/releases/download/v20260528-071629-debug/zigvindriktning.ota"
   }
 ]
