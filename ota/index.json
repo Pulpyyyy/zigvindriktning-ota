@@ -1,16 +1,16 @@
 [
   {
     "manufacturerCode": 20630,
-    "imageType": 64263,
-    "fileVersion": 1779997351,
-    "fileSize": 575198,
-    "url": "https://github.com/Pulpyyyy/zigvindriktning-ota/releases/download/v20260528-194231-debug/zigvindriktning.ota"
-  },
-  {
-    "manufacturerCode": 20630,
     "imageType": 31495,
     "fileVersion": 1779997350,
     "fileSize": 566030,
     "url": "https://github.com/Pulpyyyy/zigvindriktning-ota/releases/download/v20260528-194230/zigvindriktning.ota"
+  },
+  {
+    "manufacturerCode": 20630,
+    "imageType": 64263,
+    "fileVersion": 1780000058,
+    "fileSize": 575902,
+    "url": "https://github.com/Pulpyyyy/zigvindriktning-ota/releases/download/v20260528-202738-debug/zigvindriktning.ota"
   }
 ]
