@@ -4,7 +4,6 @@
     "imageType": 64263,
     "fileVersion": 1780084341,
     "fileSize": 575182,
-    "force": true,
     "url": "https://github.com/Pulpyyyy/zigvindriktning-ota/releases/download/v20260529-195221-debug/zigvindriktning.ota"
   },
   {
@@ -12,7 +11,6 @@
     "imageType": 31495,
     "fileVersion": 1780084340,
     "fileSize": 566014,
-    "force": true,
     "url": "https://github.com/Pulpyyyy/zigvindriktning-ota/releases/download/v20260529-195220/zigvindriktning.ota"
   }
 ]
