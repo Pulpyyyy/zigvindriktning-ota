@@ -12,11 +12,11 @@
   {
     "manufacturerCode": 20630,
     "imageType": 31495,
-    "fileVersion": 1780156107,
+    "fileVersion": 1780165006,
     "fileSize": 566862,
-    "sha512": "b7af3946b13d025a148f048322d493446e2b0ddcfc3d41ae84fb303f9498a683c720b81756d333cab7b34d3a75ab5a6538f6e2c3765af55952d709ac686e4da0",
+    "sha512": "7da89c6ba8bfab8cd342fcb8067ac920cd964b40a15ee067c092e6594c9b68d0db7e221f326cfc837e9a56710faf5a42bf28008e67140b86bf6782cc3f5b446a",
     "fileName": "zigvindriktning.ota",
     "force": true,
-    "url": "https://github.com/Pulpyyyy/zigvindriktning-ota/releases/download/v20260530-154827/zigvindriktning.ota"
+    "url": "https://github.com/Pulpyyyy/zigvindriktning-ota/releases/download/v20260530-181646/zigvindriktning.ota"
   }
 ]
