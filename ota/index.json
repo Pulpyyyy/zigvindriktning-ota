@@ -21,16 +21,6 @@
   },
   {
     "manufacturerCode": 20630,
-    "imageType": 1791,
-    "fileVersion": 2606051720,
-    "fileSize": 555134,
-    "sha512": "4fc44f8a72d66783c3310709fd2b6bcfc8885497a5d1f1cc9ec4e955df3b303a536e8d3a9a7c750bccb4344273709118a5af51690b43d9ce827b130918d9dc54",
-    "fileName": "zigvindriktning.ota",
-    "force": true,
-    "url": "https://github.com/Pulpyyyy/zigvindriktning-ota/releases/download/v20260605-1720-esp32h2_supermini/zigvindriktning.ota"
-  },
-  {
-    "manufacturerCode": 20630,
     "imageType": 34559,
     "fileVersion": 2606051720,
     "fileSize": 564302,
@@ -38,5 +28,15 @@
     "fileName": "zigvindriktning.ota",
     "force": true,
     "url": "https://github.com/Pulpyyyy/zigvindriktning-ota/releases/download/v20260605-1720-esp32h2_supermini-debug/zigvindriktning.ota"
+  },
+  {
+    "manufacturerCode": 20630,
+    "imageType": 1791,
+    "fileVersion": 2606051801,
+    "fileSize": 555134,
+    "sha512": "3adcc67150ed51c190b499474938b19611393fb192ac17b12693e43bf863d981ca76b5a8b0abd581ec320f3998558a93048c25d8520f3329a87a7532bb2a0044",
+    "fileName": "zigvindriktning.ota",
+    "force": true,
+    "url": "https://github.com/Pulpyyyy/zigvindriktning-ota/releases/download/v20260605-1801-esp32h2_supermini/zigvindriktning.ota"
   }
 ]
