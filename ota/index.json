@@ -11,10 +11,10 @@
   {
     "manufacturerCode": 20631,
     "imageType": 34559,
-    "fileVersion": 2606091404,
-    "fileSize": 564606,
-    "sha512": "14e81b51783c2b73c96ad8cbe94855c3616fda659a1a51a87423840cde72f6e0e014b6d1356d451f0242ed47de626c8b224be294e37d2b14515172e4d921c908",
+    "fileVersion": 2606201035,
+    "fileSize": 567998,
+    "sha512": "936cae4551149a2551beb69e55886fe68995a06d1763e33fd9395d4dfa77410ae15312852a54208b33f1366fb91d67d8b5e42ae3b6cee2f117374eb56933566e",
     "fileName": "zigvindriktning.ota",
-    "url": "https://github.com/Pulpyyyy/zigvindriktning-ota/releases/download/v20260609-1404-esp32h2_supermini-debug/zigvindriktning.ota"
+    "url": "https://github.com/Pulpyyyy/zigvindriktning-ota/releases/download/v20260620-1035-esp32h2_supermini-debug/zigvindriktning.ota"
   }
 ]
