@@ -9,7 +9,7 @@ La CI la publie comme notes de release et remplace "[Unreleased]" par le vrai nu
 version (voir .github/workflows/build.yml). Ne pas éditer la copie du repo OTA : régénérée.
 -->
 
-## v20260621-0524
+## v20260707-1900
 
 ### Nouveautés
 - **Mises à jour OTA fiables** : la mise à jour du firmware par Zigbee (sans fil) va
